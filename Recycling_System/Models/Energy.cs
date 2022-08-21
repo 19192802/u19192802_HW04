@@ -8,7 +8,7 @@ namespace u19192802_HW04.Models
     public abstract class Energy
 
     {
-        // are the parameters for the constructor of the class; they are omitted if the class has no parameters.
+        // These are the parameters for the constructor of the class; they are omitted if the class has no parameters.
 
         // An instance variable is declared as follows:
 
